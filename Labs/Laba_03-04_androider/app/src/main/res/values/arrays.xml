@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="experience_entries">
+        <item>Less than 1 year</item>
+        <item>1-3 years</item>
+        <item>3-5 years</item>
+        <item>More than 5 years</item>
+    </string-array>
+</resources>
